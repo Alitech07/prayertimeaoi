@@ -1,0 +1,36 @@
+cities = [
+  'kokand',
+  'tashkent',
+  'chirchik',
+  'bekobod',
+  'angren',
+  'fergana',
+  'andijan',
+  'samarkand',
+  'namangan',
+  'termez',
+  'urgench',
+  'bukhara',
+  'nukus',
+  'sirdaryo',
+  'jizzakh',
+  'qarshi']
+
+region_name = [
+  "Qo'qon",
+  'Toshkent',
+  'Chirchiq',
+  'Bekobod',
+  'Angren',
+  "Farg'ona",
+  'Andijon',
+  'Samarqand',
+  'Namangan',
+  'Termiz',
+  'Urganch',
+  'Buxoro',
+  'Nukus',
+  'Sirdaryo',
+  'Jizzax',
+  'Qarshi'
+]
